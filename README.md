@@ -11,7 +11,7 @@ Connectivity.dart : it connects the server and app
 
 mainpage.dart ; homme page for the app
 
-main.js : js file which creates the server for data transaction between app and mysql database
+main.js : js file which creates the server for data transaction between app and azure mysql database
 
 Here you have to add some module for the creation of server 
 such as 
